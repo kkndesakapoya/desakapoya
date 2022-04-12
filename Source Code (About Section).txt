@@ -1,0 +1,35 @@
+<!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Tentang Kami</h2>
+        </div>
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <div style='text-align:justify'>
+              Didirikan oleh Dotu Assa dan Dotu Sarayar antara tahun 1667 – 1776 yang berasal dari Desa Kiawa, Sonder
+              anak suku Tountemboan Minahasa. Nama desa terambil dari nama kayu “KAKAPOYAAN” yakni tempat burung Manguni
+              bertengger dan berbunyi “Kii..ii” yang tandanya berarti kuat “Keter” dan memberi arti bahwa tempat itu
+              cocok atau disetujui untuk dijadikan tempat pemukiman. Lokasinya sekitar selokan Kapoya di antara 2 air
+              terjun (= tekanan) bagian timur dan barat serokan.
+              Diketahui, semula tempat yang dijadikan pemukiman, ditempat bernama “Pengkor” sekitar serokan Tinongkoan
+              bagian utara desa, oleh sebab itu di lokasi tersebut terdapat batu nisan sebagai tanda yang diletakkan
+              oleh Dotu – dotu pendahulu itu. Tetapi setelah penduduk pemukiman pertama di tempat itu sakit- sakit dan
+              banyak yang meninggal,akhirnya tempat ini ditinggalkan dan berpindah ketempat sekarang sesuai petunjuk
+              leluhur pada waktu itu.
+            </div>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <div style="text-align: justify;"> Desa Kapoya adalah salah satu desa di Kecamatan Tumpaan yang kemudian
+              menjadi wilayah Kecamatan matani Tareran (th 1962) Kabupaten Daerah Tinggkat II, Minahasa dan pada tahun
+              2003 menjadi wilayah Kabupaten Tingkat II Minahasa Selatan yang berdiri tanggal 14 Agustus 2003 dengan ibu
+              kota Amurang.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      </div>
+    </section><!-- End About Us Section -->
